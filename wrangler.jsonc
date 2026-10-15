@@ -1,1 +1,8 @@
 
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "spanish-conjugator-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-14"
+}
+
