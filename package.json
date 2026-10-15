@@ -1,1 +1,17 @@
 
+{
+  "name": "spanish-conjugator-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@jirimracek/conjugate-esp": "2.3.6"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  },
+  "scripts": {
+    "deploy": "wrangler deploy"
+  }
+}
+
